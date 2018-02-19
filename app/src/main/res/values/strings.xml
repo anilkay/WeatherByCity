@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AirPollution</string>
+    <string name="sehir">Şehir</string>
+    <string name="buraya">Buraya dokununuz</string>
+</resources>
